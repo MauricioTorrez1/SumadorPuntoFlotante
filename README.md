@@ -20,4 +20,4 @@ El cálculo se realizará siguiendo los siguientes pasos:
   b) o si, tras la resta, el resultado es demasiado pequeño para ser normalizado y debe convertirse a cero,
   c) o si, tras la suma, el resultado genera un bit de acarreo.
 
-  Se programan los diferentes módulos y paquetes para posteriormente ser instanciados en un solo proyecto capaz de realizar todos los procesos anteriores.
+  Se programan los diferentes módulos y paquetes para posteriormente ser instanciados en un solo proyecto (Actividad 3) capaz de realizar todos los procesos anteriores.
