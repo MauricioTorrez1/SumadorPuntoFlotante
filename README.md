@@ -21,3 +21,4 @@ El cálculo se realizará siguiendo los siguientes pasos:
   c) o si, tras la suma, el resultado genera un bit de acarreo.
 
   Se programan los diferentes módulos y paquetes para posteriormente ser instanciados en un solo proyecto (Actividad 3) capaz de realizar todos los procesos anteriores.
+  El proceso de testeo se lleva acabo con el archivo Actividad3_Tester.
